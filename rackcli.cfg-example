@@ -1,0 +1,17 @@
+[RACKCLI]
+USER_AGENT = python-rackspace-cli
+LOG_FILENAME = /tmp/rackcli.log
+DEBUG_LEVEL = 0
+
+[CLOUD AUTH]
+ACCOUNT_NUMBER = 123456
+USER = johndoe
+KEY = 8a2a3
+URL = https://auth.api.rackspacecloud.com/
+VERSION = v1.0
+
+[QUEUE]
+QUEUE_API_VERSION = v1
+QUEUE_API_URL = https://ord.queues.api.rackspacecloud.com/
+QUEUE_XMLNS = http://docs.openstack.org/queue/api/v1.0
+
