@@ -4,9 +4,13 @@ queues-test
 Testing Cloud Queues
 
 Usage:
+
 export PYTHONPATH=~/github/
+
 cp rackcli.cfg-example rackcli.cfg
+
 vim rackcli.cfg
+
 
 cd queue
 
